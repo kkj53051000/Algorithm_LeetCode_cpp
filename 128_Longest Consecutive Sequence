@@ -1,0 +1,45 @@
+class Solution {
+public:
+    int longestConsecutive(vector<int>& nums) {
+        unordered_map<int, bool> numCheck;
+        
+        int maxNum = 0;
+        int minNum = 0;
+        
+        for (int n : nums) {
+            if(n > maxNum) {
+                maxNum = n;
+            }
+            if(n < minNum) {
+                minNum = n;
+            }
+            numCheck[n] = true;
+        }
+        
+        int answer = 0;
+        int count = 0;
+        
+        for (int i = minNum; i <= maxNum; i++) {
+            if(numCheck.find(i) == numCheck.end()) {
+                count = 0;
+            }else {
+                count++;
+                
+                if(count > answer) {
+                    answer = count;
+                }
+            }
+        }
+        
+        return answer;
+    }
+};
+
+// 배열에서 제일 작은 수와 제일 큰 수를 찾는다.
+// 찾으면서 숫자를 map에 check해 놓음.
+// 제일 작은 수부터 제일 큰 수 까지 반복문을 돌려서 map에서 연결되는 가장 긴 숫자 길이를 찾음.
+
+
+// 실패 : Time Limit Exceeded
+
+// 시간복잡도 : O(n) ?
