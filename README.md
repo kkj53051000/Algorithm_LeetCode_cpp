@@ -38,6 +38,7 @@ Leetcode Problem Solving for Algorithm Study
 |73|Set Matrix Zeroes|Array, Hash Table, Matrix|1||
 |83|Remove Duplicates from Sorted List|Linked List|1||
 |844|Backspace String Compare|Two Pointers, String, Stack, Simulation|3||
+|103|Binary Tree Zigzag Level Order Traversal|Tree, Breadth-First Search, Binary Tree|2||
 
 <br/>
 <br/>
@@ -46,7 +47,6 @@ Leetcode Problem Solving for Algorithm Study
 
 |문제|제목|유형|비고|푼 횟수|
 |------|---|---|---|---|
-|103|Binary Tree Zigzag Level Order Traversal|Tree, Breadth-First Search, Binary Tree|1||
 |128|Longest Consecutive Sequence|Array, Hash Table, Union Find|1||
 |3|Longest Substring Without Repeating Characters|Hash Table, String, Sliding Window|1||
 |55|Jump Game|Array, Dynamic Programming, Greedy|1||
