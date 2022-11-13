@@ -45,7 +45,7 @@ Leetcode Problem Solving for Algorithm Study
 
 # 못푼 문제
 
-|문제|제목|유형|비고|푼 횟수|
+|문제|제목|유형|푼 횟수|비고|
 |------|---|---|---|---|
 |128|Longest Consecutive Sequence|Array, Hash Table, Union Find|1||
 |3|Longest Substring Without Repeating Characters|Hash Table, String, Sliding Window|1||
