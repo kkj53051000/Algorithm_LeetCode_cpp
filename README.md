@@ -54,3 +54,4 @@ Leetcode Problem Solving for Algorithm Study
 |55|Jump Game|Array, Dynamic Programming, Greedy|1||
 |71|Simplify Path|String, Stack|2||
 |994|Rotting Oranges|Array, Breadth-First Search, Matrix|2||
+|98|Validate Binary Search Tree|Tree, Depth-First Search, Binary Search Tree, Binary Tree|1||
