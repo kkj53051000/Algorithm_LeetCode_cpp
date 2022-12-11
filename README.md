@@ -58,3 +58,4 @@ Leetcode Problem Solving for Algorithm Study
 |994|Rotting Oranges|Array, Breadth-First Search, Matrix|2||
 |98|Validate Binary Search Tree|Tree, Depth-First Search, Binary Search Tree, Binary Tree|1||
 |1971|Find if Path Exists in Graph|Depth-First Search, Breadth-First Search, Union Find, Graph|2||
+|752|Open the Lock|Array, Hash Table, String, Breadth-First Search|1||
