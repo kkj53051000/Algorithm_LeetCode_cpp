@@ -43,6 +43,7 @@ Leetcode Problem Solving for Algorithm Study
 |938|Range Sum of BST|Tree, Depth-First Search,, Binary Search Tree, Binary Tree|1||
 |102|Binary Tree Level Order Traversal|Tree, Breadth-First Search, Binary Tree|1||
 |100|Same Tree|Tree, Depth-First Search, Breadth-First Search, Binary Tree|1||
+|752|Open the Lock|Array, Hash Table, String, Breadth-First Search|2||
 
 <br/>
 <br/>
@@ -58,4 +59,3 @@ Leetcode Problem Solving for Algorithm Study
 |994|Rotting Oranges|Array, Breadth-First Search, Matrix|2||
 |98|Validate Binary Search Tree|Tree, Depth-First Search, Binary Search Tree, Binary Tree|1||
 |1971|Find if Path Exists in Graph|Depth-First Search, Breadth-First Search, Union Find, Graph|2||
-|752|Open the Lock|Array, Hash Table, String, Breadth-First Search|1||
