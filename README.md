@@ -44,6 +44,7 @@ Leetcode Problem Solving for Algorithm Study
 |102|Binary Tree Level Order Traversal|Tree, Breadth-First Search, Binary Tree|1||
 |100|Same Tree|Tree, Depth-First Search, Breadth-First Search, Binary Tree|1||
 |752|Open the Lock|Array, Hash Table, String, Breadth-First Search|2||
+|1046|Last Stone Weight|Array, Heap (Priority Queue)|1||
 
 <br/>
 <br/>
